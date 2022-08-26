@@ -1,0 +1,7 @@
+{
+    "dburi_test": "root:jiaruijiarui@tcp(192.168.0.107:3306)/jiaruid?charset=utf8",
+    "dburi":      "root:jiaruijiarui@tcp(192.168.0.107:3306)/jiaruid?charset=utf8",
+    "maxopen":    2000,
+    "maxidle":    1000,
+    "pagesize":   3
+}
